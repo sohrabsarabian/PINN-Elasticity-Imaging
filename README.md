@@ -1,3 +1,26 @@
+# PINN Elasticity Imaging
+
+## Repository Information
+
+This repository is a mirror of the original codebase developed for the paper "Elasticity imaging using physics-informed neural networks: Spatial discovery of elastic modulus and Poisson's ratio" published in Acta Biomaterialia (2023).
+
+**Original Repository:** https://github.com/klaksari/2D_hidden_elasticity_PINN
+
+**Paper Details:**
+- Title: Elasticity imaging using physics-informed neural networks: Spatial discovery of elastic modulus and Poisson's ratio
+- Authors: Ali Kamali*, Mohammad Sarabian*, Kaveh Laksari
+- Journal: Acta Biomaterialia
+- Volume: 155
+- Pages: 400-409
+- Year: 2023
+- DOI: https://doi.org/10.1016/j.actbio.2022.11.024
+- *These authors contributed equally as co-first authors.
+
+The code contained here demonstrates the work conducted in physics-informed neural networks for elasticity imaging as a first co-author of this paper.
+
+For any questions or further information about this research, please refer to the published paper or contact the authors directly.
+
+
 # Elasticity Imaging Using Physics-Informed Neural Networks: Spatial Discovery of Elastic Modulus and Poisson's Ratio
 Data and codes from our 2022 paper: 
 [Elasticity Imaging Using Physics-Informed Neural Networks: Spatial Discovery of Elastic Modulus and Poisson's Ratio](https://www.sciencedirect.com/science/article/pii/S1742706122007516)
@@ -33,4 +56,4 @@ python Plot_PE_PINN_Results.py -nxp 50
 ```
 
 Sample input and output files for a 200,000-epoch run on coarse resolution are included as sample data.
-Have a question about implementing the code? contact us at [klaksari@arizona.edu](mailto:klaksari@arizona.edu), [akamali@arizona.edu](mailto:akamali@arizona.edu)
+Have a question about implementing the code? contact us at [klaksari@arizona.edu](mailto:klaksari@arizona.edu), [akamali@arizona.edu](mailto:akamali@arizona.edu), [ms322615@ohio.edu](mailto:ms322615@ohio.edu)
